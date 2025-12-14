@@ -1200,7 +1200,7 @@
     {
       "id": "cerf_a1",
       "title": "A1 (ΚΛΙΚ)",
-      "topic": "CERF",
+      "topic": "CEFR",
       "wordIds": [
         4,
         6,
@@ -2477,7 +2477,7 @@
     {
       "id": "cerf_a2",
       "title": "A2 (ΚΛΙΚ)",
-      "topic": "CERF",
+      "topic": "CEFR",
       "wordIds": [
         41,
         78,
@@ -3442,7 +3442,7 @@
     {
       "id": "cerf_b1",
       "title": "B1",
-      "topic": "CERF",
+      "topic": "CEFR",
       "wordIds": [
         1302,
         1303,
@@ -4879,7 +4879,7 @@
     {
       "id": "must_have_verbs_a2",
       "title": "A2: Must have глаголы и их аористы",
-      "topic": "CERF",
+      "topic": "CEFR",
       "wordIds": [
         5,
         8,

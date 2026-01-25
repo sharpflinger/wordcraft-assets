@@ -4,7 +4,7 @@
     "autoNextDelayMs": 2300,
     "minDictionarySize": 5,
     "choicesCount": 5,
-    "immediateWordPickerSave": false
+    "immediateWordPickerSave": true
   },
   "content": {
     "showImagePlaceholder": true,

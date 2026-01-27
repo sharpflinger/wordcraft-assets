@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "whoisam",
+      "version": 2,
+      "title": "ΜΕΡΟΣ ΠΡΩΤΟ",
+      "cefr": "A2",
+      "description": "",
+      "filename": "whoisam.json",
+      "hash": "fcc6a7e0560b3601940d0653023435fa"
+    }
+  ]
+}

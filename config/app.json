@@ -13,5 +13,8 @@
   },
   "ui": {
     "feedbackButton": true
+  },
+  "experiments": {
+    "reading": false
   }
 }

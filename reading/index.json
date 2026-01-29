@@ -2,6 +2,15 @@
   "version": 1,
   "items": [
     {
+      "id": "fall",
+      "version": 1,
+      "title": "ΣΚΙΕΣ ΤΟΥ  ΦΘΙΝΟΠΩΡΟΥ",
+      "cefr": "A2",
+      "description": "",
+      "filename": "fall.json",
+      "hash": "1c8cdc65e5a80f54c487fd3d03c18e07"
+    },
+    {
       "id": "whoisam",
       "version": 4,
       "title": "ΜΕΡΟΣ ΠΡΩΤΟ",

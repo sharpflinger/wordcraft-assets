@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "40_fantastic",
+      "version": 1,
+      "title": "40 μικρές φανταστικές ιστορίες",
+      "cefr": "B1",
+      "filename": "40_fantastic.json",
+      "hash": "3b5a35cca59f24b2f72fd2f8f4128f03"
+    },
+    {
+      "id": "aboutcyprus",
+      "version": 2,
+      "title": "Στοιχεία για την Κύπρο",
+      "cefr": "A2",
+      "filename": "aboutcyprus.json",
+      "hash": "dc4f1330a4997137705b66fe9960221c"
+    },
+    {
+      "id": "epohes",
+      "version": 1,
+      "title": "ΟΙ ΤΕΣΣΕΡΙΣ ΕΠΟΧΕΣ ΣΤΗΝ ΚΥΠΡΟ",
+      "cefr": "A1",
+      "filename": "epohes.json",
+      "hash": "c6a3d7fc7d1017441f940dcb6b16e21a"
+    },
+    {
+      "id": "fall",
+      "version": 4,
+      "title": "ΣΚΙΕΣ ΤΟΥ  ΦΘΙΝΟΠΩΡΟΥ",
+      "cefr": "B1",
+      "filename": "fall.json",
+      "hash": "9298e806ba7cb065476d6f170d394aad"
+    },
+    {
+      "id": "news_a1",
+      "version": 2,
+      "title": "Μια βόλτα στην οδό Λήδρας",
+      "cefr": "A1",
+      "filename": "news_a1.json",
+      "hash": "218a54b40cf9325cc03593ac9cbfaec3"
+    },
+    {
+      "id": "smalltalk_a1",
+      "version": 3,
+      "title": "ΣΤΗΝ ΑΓΟΡΑ",
+      "cefr": "A1",
+      "filename": "smalltalk_a1.json",
+      "hash": "542e831746aa2b825c26c735ec415d24"
+    }
+  ]
+}

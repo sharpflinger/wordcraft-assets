@@ -1,0 +1,20 @@
+{
+  "lesson": {
+    "size": 10,
+    "autoNextDelayMs": 2300,
+    "minDictionarySize": 5,
+    "choicesCount": 5,
+    "immediateWordPickerSave": true
+  },
+  "content": {
+    "showImagePlaceholder": true,
+    "imageUrlTemplate": "https://cdn.lexiraki.com/word-images/{id}.webp",
+    "soundUrlTemplate": "https://cdn.lexiraki.com/word-sounds-v2/{id}.m4a"
+  },
+  "ui": {
+    "feedbackButton": true
+  },
+  "experiments": {
+    "reading": true
+  }
+}

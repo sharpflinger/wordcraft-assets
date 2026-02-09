@@ -1,6 +1,7 @@
 {
   "lemmatizator": {
-    "version": 1770054783,
-    "url": "lemmas.db"
+    "version": 1770666622,
+    "url": "lemmas.db",
+    "required_schema_version": 1
   }
 }

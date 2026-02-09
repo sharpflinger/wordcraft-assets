@@ -1,1 +1,1 @@
-{"gender":"Neut","forms":{"Nom":{"Sing":"κύρος"},"Gen":{"Sing":"κύρους"},"Acc":{"Sing":"κύρος"},"Voc":{"Sing":"κύρος"}}}
+{"gender":"Neut","forms":{"Nom":{"Sing":"κύρος","Plur":"κύροι"},"Gen":{"Sing":"κύρου","Plur":"κύρων"},"Acc":{"Sing":"κύρο","Plur":"κύρους"},"Voc":{"Sing":"κύρε","Plur":"κύροι"}}}

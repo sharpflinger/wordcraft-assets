@@ -1,1 +1,1 @@
-{"gender":"Masc","forms":{"Nom":{"Sing":"χόρτος"},"Gen":{"Sing":"χόρτου"},"Acc":{"Sing":"χόρτο"},"Voc":{"Sing":"χόρτε"}}}
+{"gender":"Masc","forms":{"Nom":{"Sing":"χόρτος","Plur":"χόρτοι"},"Gen":{"Sing":"χόρτου","Plur":"χόρτων"},"Acc":{"Sing":"χόρτο","Plur":"χόρτους"},"Voc":{"Sing":"χόρτε","Plur":"χόρτοι"}}}

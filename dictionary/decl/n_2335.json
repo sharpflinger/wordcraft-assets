@@ -1,1 +1,1 @@
-{"gender":"Neut","forms":{"Nom":{"Sing":"πλούτος"},"Gen":{"Sing":"πλούτου"},"Acc":{"Sing":"πλούτο"},"Voc":{"Sing":"πλούτε"}}}
+{"gender":"Neut","forms":{"Nom":{"Sing":"πλούτος","Plur":"πλούτη"},"Gen":{"Sing":"πλούτου","Plur":"πλούτων"},"Acc":{"Sing":"πλούτο","Plur":"πλούτη"},"Voc":{"Sing":"πλούτε","Plur":"πλούτη"}}}

@@ -12,7 +12,7 @@
     "soundUrlTemplate": "https://cdn.lexiraki.com/word-sounds-v2/{id}.m4a"
   },
   "ui": {
-    "feedbackButton": true
+    "feedbackButton": false
   },
   "experiments": {
     "reading": true
